@@ -1,0 +1,27 @@
+{
+  "name": "jimo",
+  "version": "1.0.0",
+  "description": "12345",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1113211014-debug/jimo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1113211014-debug/jimo/issues"
+  },
+  "homepage": "https://github.com/1113211014-debug/jimo#readme",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
